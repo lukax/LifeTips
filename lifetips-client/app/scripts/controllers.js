@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ['ionic', 'ionic.contrib.ui.tinderCards'])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
@@ -33,16 +33,46 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
-  ];
-})
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-});
+  .directive('noScroll', function() {
+    return {
+      restrict: 'A',
+      link: function($scope, $element, $attr) {
+        $element.on('touchmove', function(e) {
+          e.preventDefault();
+        });
+      }
+    }
+  })
+
+
+  .controller('CardsCtrl', function($scope) {
+    var cardTypes = [
+      { text: 'Heat up leftover pizza in a nonstick skillet on top of the stove; set heat to med-low and heat till warm. This keeps the crust crispy. No soggy micro pizza. I saw this on the cooking channel and it really works.', title: 'Reheat Pizza'},
+      { text: 'Tips coming', title: 'Way too much Sand, right?'},
+      { text: 'Tips a', title: 'Beautiful sky from wherever'},
+    ];
+
+    $scope.cards = [];
+
+    $scope.addCard = function(i) {
+      var newCard = cardTypes[i];
+      newCard.id = i;
+      $scope.cards.push(angular.extend({}, newCard));
+    }
+
+    for(var i = 0; i < 3; i++) $scope.addCard(i);
+
+    $scope.cardSwipedLeft = function(index) {
+      console.log('Left swipe');
+    }
+
+    $scope.cardSwipedRight = function(index) {
+      console.log('Right swipe');
+    }
+
+    $scope.cardDestroyed = function(index) {
+      $scope.cards.splice(index, 1);
+      console.log('Card removed');
+    }
+  });

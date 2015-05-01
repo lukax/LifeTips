@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9da38649-0220-4b90-9083-c29474fd4ace" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/LifeTips.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lifetips-client/app/templates/tips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetips-client\app\templates\playlist.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetips-client\app\templates\playlists.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetips-client\hooks\.temp\styles\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetips-client\hooks\.temp\styles\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetipsSublimeProject.sublime-project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetipsSublimeProject.sublime-workspace" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Felipe\Documents\GitHub\LifeTips\lifetips-client\app\templates\browse.html" afterPath="$PROJECT_DIR$/lifetips-client/app/templates/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-hdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-hdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-ldpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-mdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-xhdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-land-xhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-hdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-hdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-ldpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-mdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-xhdpi/screen.png" afterPath="$PROJECT_DIR$/lifetips-client/resources/android/drawable-port-xhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.bowerrc" afterPath="$PROJECT_DIR$/lifetips-client/.bowerrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.editorconfig" afterPath="$PROJECT_DIR$/lifetips-client/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.gitignore" afterPath="$PROJECT_DIR$/lifetips-client/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.jshintignore" afterPath="$PROJECT_DIR$/lifetips-client/.jshintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.jshintrc" afterPath="$PROJECT_DIR$/lifetips-client/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/test/.jshintrc" afterPath="$PROJECT_DIR$/lifetips-client/test/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/Gruntfile.js" afterPath="$PROJECT_DIR$/lifetips-client/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/README.md" afterPath="$PROJECT_DIR$/lifetips-client/app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/README.md" afterPath="$PROJECT_DIR$/lifetips-client/hooks/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/scripts/app.js" afterPath="$PROJECT_DIR$/lifetips-client/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/bower.json" afterPath="$PROJECT_DIR$/lifetips-client/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/config.xml" afterPath="$PROJECT_DIR$/lifetips-client/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/scripts/controllers.js" afterPath="$PROJECT_DIR$/lifetips-client/app/scripts/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/after_plugin_rm/deregister_plugins.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/after_plugin_rm/deregister_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/after_prepare/icons_and_splashscreens.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/after_prepare/icons_and_splashscreens.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/index.html" afterPath="$PROJECT_DIR$/lifetips-client/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/before_platform_add/init_directories.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/before_platform_add/init_directories.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/after_platform_add/install_plugins.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/after_platform_add/install_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/ionic.project" afterPath="$PROJECT_DIR$/lifetips-client/ionic.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/templates/login.html" afterPath="$PROJECT_DIR$/lifetips-client/app/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.temp/styles/main.css" afterPath="$PROJECT_DIR$/lifetips-client/.temp/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/styles/main.css" afterPath="$PROJECT_DIR$/lifetips-client/app/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/templates/menu.html" afterPath="$PROJECT_DIR$/lifetips-client/app/templates/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/package.json" afterPath="$PROJECT_DIR$/lifetips-client/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/after_plugin_add/register_plugins.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/after_plugin_add/register_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/templates/search.html" afterPath="$PROJECT_DIR$/lifetips-client/app/templates/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/.temp/styles/style.css" afterPath="$PROJECT_DIR$/lifetips-client/.temp/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/app/styles/style.css" afterPath="$PROJECT_DIR$/lifetips-client/app/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifetips-client/hooks/after_prepare/update_platform_config.js" afterPath="$PROJECT_DIR$/lifetips-client/hooks/after_prepare/update_platform_config.js" />
+    </list>
+    <ignored path="LifeTips.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="LifeTips" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/about.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/search.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/td.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/index.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/playlist.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/styles/style.css" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/login.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/menu.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/templates/playlists.html" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/scripts/controllers.js" />
+        <option value="$PROJECT_DIR$/lifetips-client/app/scripts/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LifeTips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LifeTips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LifeTips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lifetips-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da38649-0220-4b90-9083-c29474fd4ace" name="Default" comment="" />
+      <created>1430503256929</created>
+      <option name="number" value="Default" />
+      <updated>1430503256929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13333334" vertical-offset="76" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4089347" vertical-offset="0" max-vertical-offset="952">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="187">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="102" max-vertical-offset="714">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33223686" vertical-offset="1940" max-vertical-offset="8721">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/bower_components/ionic-contrib-tinder-cards/demo/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/bower_components/ionic-contrib-tinder-cards/ionic.tdcards.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/bower_components/ionic-contrib-tinder-cards/ionic.tdcards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.75" vertical-offset="6356" max-vertical-offset="7837">
+          <caret line="385" column="30" selection-start-line="385" selection-start-column="25" selection-end-line="385" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1529605" vertical-offset="0" max-vertical-offset="1547">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1428">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/scripts/configuration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55498284" vertical-offset="0" max-vertical-offset="582">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60855263" vertical-offset="531" max-vertical-offset="1139">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifetips-client/app/templates/tips.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6718213" vertical-offset="0" max-vertical-offset="582">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

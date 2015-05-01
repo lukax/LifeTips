@@ -1,0 +1,26 @@
+<ion-view view-title="Tips">
+
+  <body ng-app="starter" no-scroll>
+  <ion-pane ng-controller="CardsCtrl">
+    <ion-header-bar class="bar-positive">
+      <h1 class="title">Ionic Tinder Cards</h1>
+    </ion-header-bar>
+
+    <td-cards>
+      <td-card id="td-card" ng-repeat="card in cards" on-destroy="cardDestroyed($index)"
+               on-swipe-left="cardSwipedLeft($index)" on-swipe-right="cardSwipedRight($index)"
+               on-partial-swipe="cardPartialSwipe(amt)">
+        <div class="title">
+          {{card.title}}
+        </div>
+        <div class="text-center">
+          <div class="no-text overlayBox"><div class="noBox boxed">Nope</div></div>
+          <div class="yes-text overlayBox"><div class="yesBox boxed" id="centerMe">Like</div></div>
+          <p>{{card.text}}</p>
+        </div>
+      </td-card>
+    </td-cards>
+  </ion-pane>
+  </body>
+
+</ion-view>
