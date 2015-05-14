@@ -31,7 +31,6 @@ angular.module('starter.controllers', ['ionic', 'ionic.contrib.ui.tinderCards'])
       $scope.closeLogin();
     }, 1000);
   };
-
 })
 
 
@@ -49,7 +48,7 @@ angular.module('starter.controllers', ['ionic', 'ionic.contrib.ui.tinderCards'])
 
   .controller('CardsCtrl', function($scope) {
     var cardTypes = [
-      { text: 'Heat up leftover pizza in a nonstick skillet on top of the stove; set heat to med-low and heat till warm. This keeps the crust crispy. No soggy micro pizza. I saw this on the cooking channel and it really works.asfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasfdafasfdasdsadfafasfdasdsadasdfasfdasfdasfdasfdasdasdasdfafasgasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagasfasfasfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', title: 'Reheat Pizza'},
+      { text: 'Heat up leftover pizza in a nonstick skillet on top of the stove; set heat to med-low and heat till warm. This keeps the crust crispy. No soggy micro pizza. I saw this on the cooking channel and it really works.', title: 'Reheat Pizza'},
       { text: 'Tips coming', title: 'Way too much Sand, right?'},
       { text: 'Tips a', title: 'Beautiful sky from wherever'},
     ];
