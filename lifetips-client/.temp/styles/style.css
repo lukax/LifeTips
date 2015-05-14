@@ -13,10 +13,9 @@ td-card {
   width: 300px;
   height: 300px;
   border: 1px solid #999;
-  box-shadow: 5px 18px 30px rgba(0,0,0,0.2);
-  border-radius: 3px;
-  background-color: rgb(255,237,162);
-  overflow:scroll;
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  background-color: rgb(255,255,255);
 }
 
 .td-card .title {
@@ -50,17 +49,15 @@ td-card img {
 }
 
 .boxed {
-  text-align: center;
-  line-height: 80px;
-  height: 100px;
+  height: 50px;
   width: 100px;
   padding: 10px;
   border-radius: 6px;
-  font-size: 80px;
+  font-size: 30px;
 }
 
 .yes-text {
-  background-color: rgba(0,225,0,0.2);
+  background-color: rgba(0,256,0,0.2);
 }
 
 .yesBox {
